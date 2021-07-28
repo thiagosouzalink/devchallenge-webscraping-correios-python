@@ -12,6 +12,11 @@
   </p>
 </p>
 
+#
+![Badge](https://img.shields.io/static/v1?label=python&message=v3.8.9&color=blue&logo=PYTHON)
+![GitHub language count](https://img.shields.io/github/languages/count/thiagosouzalink/devchallenge-webscraping-correios-python)
+![GitHub top language](https://img.shields.io/github/languages/top/thiagosouzalink/devchallenge-webscraping-correios-python)
+
 # Desafio
 Criar um [web scraping](https://pt.wikipedia.org/wiki/Coleta_de_dados_web) para consultar um cep no site dos correios
 
@@ -20,10 +25,11 @@ Criar um [web scraping](https://pt.wikipedia.org/wiki/Coleta_de_dados_web) para 
   - [selenium](https://selenium-python.readthedocs.io/)
 
 # Execução do projeto:
-1 - Faça o clone ou download do projeto.
-2 - Realize a instalação das dependências do projeto através do comando:
-```$ pip install -r requirements.txt```
-3 - Execute a aplicação através do comando
+1 - Faça o clone ou download do projeto.\
+2 - Realize a instalação das dependências do projeto através do comando:\
+```$ pip install -r requirements.txt```\
+3 - Execute a aplicação através do comando\
 ```$ python script.py``` ou ```$ python3 script.py``` 
 
+#
 Desafio criado por [filiafobico](https://github.com/filiafobico/) [DevChallenge](https://devchallenge.now.sh/)
